@@ -1,3 +1,3 @@
 # -CrackYourInternship
-I am going to Start 45 day DSA Challange from today till next 45 days and I daily update my github repo by Leet code problem solving 
-#CrackYourInternship or#CrackYourPlacement
+I am starting a 45-day DSA challenge today and will daily update my GitHub repository with LeetCode problem solutions. 
+#CrackYourInternship or #CrackYourPlacement
